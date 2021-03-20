@@ -1,8 +1,10 @@
-👋 Hi, I’m @GeorgeElliott
+👋 Hi, I’m @GeorgeElliott, I am 27 years old and based in the south of the United Kingdom.
 
-👀 I’m interested in C#, Javascript, Modern frontend frameworks and Microservices
+👀 I’m interested in C#, Javascript and React. In my day to day job I predominately use C#, where I work on a variety of projects.
 
-🌱 I’m currently learning React, Python and Microservice Architecture
+🧠 I’m currently learning Python and Microservice Stuff and trying to get better at React.
+
+🤢 I'm below average at CSS so I rely heavily on tailwind for any styling.
 
 
 <!---
