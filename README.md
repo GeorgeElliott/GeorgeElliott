@@ -1,8 +1,6 @@
-👋 Hi, I’m @GeorgeElliott, I am 29 years old and based in the south of the United Kingdom.
+👋 Hi, I’m @GeorgeElliott, I am 32 years old and based in the south of the United Kingdom.
 
-👀 I’m interested in C#, Blazor, Javascript and React. In my day to day job I predominately use C#, where I work on a variety of projects.
-
-🤢 I'm below average at CSS so I rely heavily on tailwind for any styling.
+👀 In my day to day job I predominately use C#.
 
 <!---
 GeorgeElliott/GeorgeElliott is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
