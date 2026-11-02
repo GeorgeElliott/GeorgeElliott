@@ -1,4 +1,4 @@
-👋 Hi, I’m @GeorgeElliott, I am 32 years old and based in the south of the United Kingdom.
+👋 Hi, I’m @GeorgeElliott, I am 33 years old and based in the south of the United Kingdom.
 
 👀 In my day to day job I predominately use C#.
 
